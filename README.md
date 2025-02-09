@@ -9,15 +9,19 @@
 
 
 # Ollama
+
+## grok 1 - 316b (Q1_K)
 ```shell
 ollama run jmorgan/grok
 ```
+- Needs 94GB RAM
 
 
 
 
 
 
+<br><br>
 <br><br>
 
 # GGUF
